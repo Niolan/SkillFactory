@@ -1,3 +1,4 @@
+﻿# My first programm
 def show_field(field):
 	print(f'  0 1 2')
 	for i in range(len(field)):
